@@ -2,6 +2,7 @@ import TopBar from "./components/TopBar";
 import Toolbar from "./components/Toolbar";
 import Table from "./components/Table";
 import Footer from "./components/Footer";
+import { tableData } from "./data/tableData";
 
 function App() {
   return (
@@ -9,7 +10,7 @@ function App() {
       <TopBar />
       <Toolbar />
       <div className="flex-1 overflow-auto">
-        <Table />
+        <Table data={tableData} />
       </div>
 
       <Footer />
