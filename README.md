@@ -50,9 +50,10 @@ All icons are custom SVGs (exported from Figma). A few examples:
 
 ## 🔗 Live Demo & GitHub
 
-*🔴 Live Preview*: [https://your-live-link.vercel.app](https://your-live-link.vercel.app)  
-*📦 GitHub Repo*: [https://github.com/your-username/react-table-ui](https://github.com/your-username/react-table-ui)
+*## 🔗 Live Demo & GitHub
 
+🌐**Live Preview**: [https://project-np9z.vercel.app](https://project-np9z.vercel.app)  
+📦 **GitHub Repo**: [https://github.com/TanuSingh2821/Project](https://github.com/TanuSingh2821/Project)
 
 
 ## About Me
