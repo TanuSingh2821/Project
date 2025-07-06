@@ -95,9 +95,10 @@ export const tableData: TableRow[] = [
     dueDate: "15-01-2025",
     estValue: "5,900,000 ₹",
   },
-  {
-    id: 5,
-    jobRequest: "Prepare financial report for Q4",
+ 
+   {
+    id: 6,
+    jobRequest: "Frontend Developer",
     submitted: "25-01-2025",
     status: {
       text: "Blocked",
@@ -111,7 +112,7 @@ export const tableData: TableRow[] = [
       text: "Low",
       color: "text-blue-600",
     },
-    dueDate: "30-01-2025",
-    estValue: "2,800,000 ₹",
+    dueDate: "3-01-2025",
+    estValue: "2,800,00 ₹",
   },
 ];
